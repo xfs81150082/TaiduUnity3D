@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d11ff840d138d654bb94a924c9c19325
+timeCreated: 1506938104
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - taskItemPrefabs: {fileID: 1190505509357748, guid: 79898fef496c4854487dcb93ec74ca42,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabao", "Fabao.csproj", "{77E22997-A773-E9A2-92A4-2AB433B8B902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabao.Editor", "Fabao.Editor.csproj", "{B0842659-164B-CBD4-CBD2-A2A4608C735F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E22997-A773-E9A2-92A4-2AB433B8B902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E22997-A773-E9A2-92A4-2AB433B8B902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E22997-A773-E9A2-92A4-2AB433B8B902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E22997-A773-E9A2-92A4-2AB433B8B902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0842659-164B-CBD4-CBD2-A2A4608C735F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0842659-164B-CBD4-CBD2-A2A4608C735F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0842659-164B-CBD4-CBD2-A2A4608C735F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0842659-164B-CBD4-CBD2-A2A4608C735F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
